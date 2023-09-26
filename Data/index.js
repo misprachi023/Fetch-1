@@ -18,7 +18,6 @@ function fetchUsers(){
                  <div class = "user-details">
                  <span class = "id">${user.id}</span>
                      <span class = "name">${user.first_name} ${user.last_name}</span>
-                    
                      <span  class = "email">${user.email}</span>
             </div>
           </div>`
