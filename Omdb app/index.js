@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = '4f4b140a'; 
+    const apiKey = 'fb8cea78'; 
     const searchInput = document.getElementById('searchInput');
     const searchButton = document.getElementById('searchButton');
     const movieData = document.getElementById('movieData');
